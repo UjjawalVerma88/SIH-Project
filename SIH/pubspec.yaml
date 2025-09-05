@@ -1,0 +1,16 @@
+name: tourist_app
+description: Smart Tourism Flutter app (starter)
+publish_to: "none"
+version: 0.0.1+1
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  # mapbox_gl could be added by you with token
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
